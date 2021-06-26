@@ -1,1 +1,3 @@
-# quickdemoapp
+# Quick Demo Application
+
+## Benefits
